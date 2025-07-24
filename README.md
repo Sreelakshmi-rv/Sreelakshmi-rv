@@ -1,7 +1,5 @@
 <div align="center">
   <h1>👋 Hi there, I'm Sreelakshmi R V!</h1>
-  <p><h3>MSc Data Analytics & Computational Science Student | Solving problems with Python, SQL, and C.</h3></p>
-  <p>Exploring new data horizons daily. </p>
   
   <p>
     <a href="https://linkedin.com/in/[YourLinkedInUsername]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -40,17 +38,6 @@ As a third-semester MSc student, I'm actively **deepening my expertise in advanc
 * Deepening expertise in MLOps and deployment strategies.
 * Exploring advanced topics in Generative AI and Large Language Models (LLMs).
 * Contributing to open-source projects that align with my interests.
-
----
-
-### 🤝 Connect With Me
-
-Let's connect and explore the world of data together!
-
-<p>
-    <a href="https://linkedin.com/in/[YourLinkedInUsername]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:[YourEmailAddress]" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-    </p>
 
 ---
 
