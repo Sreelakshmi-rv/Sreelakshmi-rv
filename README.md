@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 About Me
+### 😎 About Me
 
 I'm a passionate Master's student specializing in **Data Analytics with Computational Science**. My academic journey focuses on leveraging data to derive meaningful insights and build intelligent systems. I thrive on transforming complex data into clear, actionable solutions.
 
@@ -20,7 +20,7 @@ My core interests lie in:
 * **Natural Language Processing (NLP):** Working with text data for various applications.
 * **Computational Methods:** Applying robust programming techniques to data challenges.
 
-### 🛠️ My Tech Stack & Skills
+### 🤖 My Tech Stack & Skills
 
 * **Programming Languages:** Python (highly proficient), SQL, C
 * **Data Analysis & ML Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
@@ -29,7 +29,7 @@ My core interests lie in:
 * **Databases:** SQL (e.g., PostgreSQL, MySQL basics)
 * **Tools & Platforms:** Git, GitHub, Jupyter Notebook, Google Colab
 
-### 🌱 What I'm Currently Working On
+### 🤓 What I'm Currently Working On
 
 As a third-semester MSc student, I'm actively **deepening my expertise in advanced machine learning and computational techniques.** My focus is on **applying theoretical knowledge to complex, real-world datasets** and continually expanding my project portfolio. I'm also exploring **specialized topics within data analytics** relevant to my ongoing coursework and potential thesis work.
 
@@ -43,7 +43,7 @@ As a third-semester MSc student, I'm actively **deepening my expertise in advanc
 ---
 
 <div align="center">
-  Always open to learning and new opportunities – connect with me!
+  Always open to learning and new opportunities – connect with me! 🙋🏻‍♀️
 </div>
 
 ---
