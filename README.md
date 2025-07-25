@@ -24,10 +24,8 @@ My core interests lie in:
 
 * **Programming Languages:** Python (highly proficient), SQL, C
 * **Data Analysis & ML Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-* **Deep Learning Frameworks:** TensorFlow, Keras
 * **Web Frameworks/Deployment:** Streamlit
-* **Databases:** SQL (e.g., PostgreSQL, MySQL basics)
-* **Tools & Platforms:** Git, GitHub, Jupyter Notebook, Google Colab
+* **Tools & Platforms:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
 
 ### 🤓 What I'm Currently Working On
 
