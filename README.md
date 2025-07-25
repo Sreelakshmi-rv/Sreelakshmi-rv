@@ -45,11 +45,3 @@ As a third-semester MSc student, I'm actively **deepening my expertise in advanc
 </div>
 
 ---
-
-<div align="center">
-  <h3>GitHub Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreelakshmi-rv&theme=buefy&hide_border=true" alt="Sreelakshmi's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreelakshmi-rv&layout=compact&langs_count=5&theme=buefy&hide_border=true" alt="Sreelakshmi's Top Languages" />
-</div>
-
----
