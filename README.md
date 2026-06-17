@@ -12,12 +12,13 @@
 
 # Hi, I'm Sreelakshmi RV
 
-I'm a data analyst and ML engineer who enjoys building systems that actually do something useful.
-Recently graduated with an MSc in Data Analytics and Computational Science from Digital University Kerala.
-Before that, I spent two years at Wipro as a media analyst, which is where I got hooked on working with messy, real-world data.
+I build end-to-end ML systems, mostly in NLP, multi-agent AI, and semantic search.
+Recently graduated with an MSc in Data Analytics and Computational Science 
+from Digital University Kerala. Before that, I spent two years at Wipro as a 
+media analyst, which is where I got comfortable working with messy, real-world data.
 
-Most of my work sits at the intersection of NLP, multi-agent systems, and applied machine learning.
-I like projects that have a clear problem to solve, not just a dataset to run models on.
+I like projects that have a clear problem to solve, not just a dataset to run 
+models on.
 
 ---
 
@@ -25,7 +26,8 @@ I like projects that have a clear problem to solve, not just a dataset to run mo
 
 **Languages:** Python, SQL
 
-**ML and AI:** Scikit-learn, XGBoost, PyTorch, SBERT, FAISS, LangGraph, NetworkX, DQN, PPO (reinforcement learning)
+**ML and AI:** Scikit-learn, XGBoost, PyTorch, SBERT, FAISS, LangGraph, 
+NetworkX, DQN (deep reinforcement learning)
 
 **NLP:** TF-IDF, sentence embeddings, semantic search, text classification
 
@@ -35,17 +37,27 @@ I like projects that have a clear problem to solve, not just a dataset to run mo
 
 ---
 
-## Projects I'm proud of
+## Projects
 
-**MisinfoGuard** — Built a multi-agent reinforcement learning system to control misinformation spread in social networks. Modelled four different network topologies (Barabasi-Albert, Watts-Strogatz, Erdos-Renyi, Holme-Kim) and trained PPO agents on each. RL outperformed greedy baselines across all topologies. Claim classification used SBERT embeddings with XGBoost, hitting 74.4% accuracy, up 14.4% from TF-IDF.
+**MisinfoGuard** — Multi-agent RL system for misinformation control in social 
+networks. Two DQN agents manage a 500-node network split into regions, 
+intervening at each timestep using flagging, counter-messaging, or quarantine. 
+RL outperforms a degree-based greedy baseline across four network topologies 
+(p < 0.01 on all four). NLP claim classifier uses SBERT embeddings and XGBoost, 
+hitting 74.4% accuracy, up 14.4% from TF-IDF.
 
-**BiasLens** — An AI-powered fairness auditing tool. It runs a full pipeline: data profiling, cleaning, model training, and bias detection, all automated. Measures fairness using Disparate Impact, Statistical Parity, Equal Opportunity, and Theil Index. Reports are generated via an LLM and shown on a Streamlit dashboard.
+**BiasLens** — Automated fairness auditing pipeline. Takes a dataset, runs 
+profiling, cleaning, model training, and bias detection end to end. Measures 
+Disparate Impact, Statistical Parity, Equal Opportunity, and Theil Index. 
+LLM-generated reports shown on a Streamlit dashboard.
 
-**Nexara AI** — A job matching and resume tailoring system built with LangGraph. Uses SBERT and FAISS for semantic matching between job postings and candidate profiles. Includes skill gap analysis and ATS-aligned resume generation.
+**Nexara AI** — Job matching and resume tailoring system built with LangGraph. 
+Uses SBERT and FAISS for semantic matching between job postings and candidate 
+profiles. Includes skill gap analysis and ATS-aligned resume output.
 
 ---
 
-## A bit more about me
+## Currently
 
-I'm currently open to data analyst and ML engineer roles. Happy to work out of Bengaluru or remotely.
-If you want to talk about any of the projects above or just connect, feel free to reach out on LinkedIn.
+Open to data analyst and ML engineer roles. Happy to work out of Bengaluru 
+or remotely. Feel free to reach out on LinkedIn.
