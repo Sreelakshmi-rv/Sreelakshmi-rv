@@ -10,38 +10,42 @@
 
 ---
 
-### 😎 About Me
+# Hi, I'm Sreelakshmi RV
 
-I'm a passionate Master's student specializing in **Data Analytics with Computational Science**. My academic journey focuses on leveraging data to derive meaningful insights and build intelligent systems. I thrive on transforming complex data into clear, actionable solutions.
+I'm a data analytics and ML engineer who enjoys building systems that actually do something useful.
+Recently graduated with an MSc in Data Analytics and Computational Science from Digital University Kerala.
+Before that, I spent two years at Wipro as a media analyst, which is where I got hooked on working with messy, real-world data.
 
-My core interests lie in:
-* **Machine Learning & Deep Learning:** Building predictive models and exploring neural networks.
-* **Data Analysis & Visualization:** Uncovering patterns and communicating data stories.
-* **Natural Language Processing (NLP):** Working with text data for various applications.
-* **Computational Methods:** Applying robust programming techniques to data challenges.
-
-### 🤖 My Tech Stack & Skills
-
-* **Programming Languages:** Python (highly proficient), SQL, C
-* **Data Analysis & ML Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-* **Web Frameworks/Deployment:** Streamlit
-* **Tools & Platforms:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
-
-### 🤓 What I'm Currently Working On
-
-As a third-semester MSc student, I'm actively **deepening my expertise in advanced machine learning and computational techniques.** My focus is on **applying theoretical knowledge to complex, real-world datasets** and continually expanding my project portfolio. I'm also exploring **specialized topics within data analytics** relevant to my ongoing coursework and potential thesis work.
+Most of my work sits at the intersection of NLP, multi-agent systems, and applied machine learning.
+I like projects that have a clear problem to solve, not just a dataset to run models on.
 
 ---
 
-### 🎯 Learning Goals & Future Interests
-* Deepening expertise in MLOps and deployment strategies.
-* Exploring advanced topics in Generative AI and Large Language Models (LLMs).
-* Contributing to open-source projects that align with my interests.
+## What I work with
+
+**Languages:** Python, SQL
+
+**ML and AI:** Scikit-learn, XGBoost, PyTorch, SBERT, FAISS, LangGraph, NetworkX, DQN, PPO (reinforcement learning)
+
+**NLP:** TF-IDF, sentence embeddings, semantic search, text classification
+
+**Visualization and deployment:** Streamlit, Power BI, Matplotlib, Seaborn
+
+**Tools:** Git, GitHub, Jupyter, VS Code, Google Colab, SQLite
 
 ---
 
-<div align="center">
-  Always open to learning and new opportunities – connect with me! 🙋🏻‍♀️
-</div>
+## Projects I'm proud of
+
+**MisinfoGuard** — Built a multi-agent reinforcement learning system to control misinformation spread in social networks. Modelled four different network topologies (Barabasi-Albert, Watts-Strogatz, Erdos-Renyi, Holme-Kim) and trained PPO agents on each. RL outperformed greedy baselines across all topologies. Claim classification used SBERT embeddings with XGBoost, hitting 74.4% accuracy, up 14.4% from TF-IDF.
+
+**BiasLens** — An AI-powered fairness auditing tool. It runs a full pipeline: data profiling, cleaning, model training, and bias detection, all automated. Measures fairness using Disparate Impact, Statistical Parity, Equal Opportunity, and Theil Index. Reports are generated via an LLM and shown on a Streamlit dashboard.
+
+**Nexara AI** — A job matching and resume tailoring system built with LangGraph. Uses SBERT and FAISS for semantic matching between job postings and candidate profiles. Includes skill gap analysis and ATS-aligned resume generation.
 
 ---
+
+## A bit more about me
+
+I'm currently open to data analyst and ML engineer roles. Happy to work out of Bengaluru or remotely.
+If you want to talk about any of the projects above or just connect, feel free to reach out on LinkedIn.
