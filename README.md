@@ -12,7 +12,7 @@
 
 # Hi, I'm Sreelakshmi RV
 
-I'm a data analytics and ML engineer who enjoys building systems that actually do something useful.
+I'm a data analyst and ML engineer who enjoys building systems that actually do something useful.
 Recently graduated with an MSc in Data Analytics and Computational Science from Digital University Kerala.
 Before that, I spent two years at Wipro as a media analyst, which is where I got hooked on working with messy, real-world data.
 
